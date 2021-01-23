@@ -1,0 +1,19 @@
+  body{
+            background-color: #e4fffe;
+            }
+
+            hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: hotpink;
+            border-width: 20px;
+            width: 10%;
+            }
+
+            img{
+            height: 250px;
+            }
+
+            h1,h3{
+            color: #ba52ed;
+            }
